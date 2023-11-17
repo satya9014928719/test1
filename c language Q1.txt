@@ -1,0 +1,145 @@
+1. Why do computers understand only binary language?
+
+Ans) Computers understand and process information in binary language because their fundamental components, such as transistors, operate on a binary system. Binary is a base-2 numeral system, meaning it uses only two digits, 0 and 1. This aligns with the on/off states of electronic switches in computer hardware.
+    Computers understand binary language because their basic building blocks, like switches called transistors, can either be in an "on" state (represented by 1) or an "off" state (represented by 0). This binary system aligns with the physical nature of electronic components, making it practical and efficient for computers to process information using only these two digits. It's like a language that matches the way computer parts naturally work.
+=============================================================================================
+2. What is the full form of IDE? 
+Ans).
+
+IDE stands for "Integrated Development Environment." In a simple way, it's a software tool that helps programmers write, edit, and organize their code more easily by providing a convenient environment that includes features like a code editor, debugger, and build automation tools, all in one place.
+=============================================================================================
+3. What is the difference between a text editor and a code editor?
+Ans).
+
+While the terms "text editor" and "code editor" are sometimes used interchangeably, there are distinctions between the two:
+
+Text Editor:
+-----------
+    A text editor is a software that is primarily designed for editing plain text files.
+It is a general-purpose tool and doesn't have specific features tailored for programming tasks.
+Examples include Notepad (Windows), TextEdit (Mac), and Gedit (Linux).
+
+Code Editor:
+------------
+   A code editor is a specialized text editor that includes features specifically designed to assist with coding and programming tasks.
+It often provides syntax highlighting, code completion, and other tools to make coding more efficient.
+Examples include Visual Studio Code, Sublime Text, and Atom.
+
+=============================================================================================
+4. What are the steps to develop software using the C language?
+Ans).
+
+Developing software using the C language typically involves several key steps. Here's a simplified overview:
+
+1.Define the Problem:
+---------------------
+Clearly understand and define the problem your software aims to solve. This step involves gathering requirements and specifying what the software should accomplish.
+
+2.Design:
+---------
+Plan the structure of your software. Break down the problem into smaller components and design the relationships between them. Create flowcharts or diagrams to illustrate the program's structure.
+
+3.Write Code:
+-------------
+Use a text editor or an integrated development environment (IDE) to write your C code. Implement the algorithms and logic designed during the previous step.
+
+4.Compile:
+----------
+Use a C compiler to translate your human-readable C code into machine-readable code (binary). The compiler checks for syntax errors and generates an executable file.
+
+5.Debugging:
+-----------
+Test your program and identify and fix any errors (bugs). Use debugging tools and techniques to locate and resolve issues in your code.
+
+6.Testing:
+----------
+Execute various test cases to ensure your program behaves as expected. This includes checking boundary cases, input validation, and overall functionality.
+
+7.Documentation:
+----------------
+Create documentation that describes how to use your software, explains the code structure, and provides any necessary information for future maintenance or development.
+
+8.Optimization:
+---------------
+Fine-tune your code for better performance if needed. This step involves analyzing the code and making improvements to enhance efficiency.
+
+9.Deployment:
+-------------
+Once satisfied with the testing and optimization, deploy your software for use. This may involve distributing executable files or integrating it into a larger system.
+
+10.Maintenance:
+---------------
+Monitor and address any issues that arise in the deployed software. Update the code as needed to adapt to changes in requirements or to fix discovered bugs
+=============================================================================================
+5. Explore by your own
+a. What is the latest version of C Language?
+b. Who developed C Language?
+c. What is the difference between System and Application Software?
+d. How to convert a number from a decimal number system to a binary number
+system? in simple words
+
+a. Latest Version of C Language:
+--------------------------------
+As of my last knowledge update in January 2022, C does not have versions in the same way as some other programming languages. The most recent standard is often referred to as "C17," which is an informal term for the 2018 ISO/IEC standard for the C programming language. It introduced several new features and improvements over the previous standard, commonly known as "C11."
+
+b. Developer of C Language:
+--------------------------
+C programming language was developed by Dennis Ritchie at Bell Labs in the early 1970s. Dennis Ritchie, along with Brian Kernighan, played a crucial role in the development and popularization of the C language.
+
+c. Difference Between System and Application Software:
+-----------------------------------------------------
+
+1.System Software:
+------------------
+
+System software is a set of programs designed to control and manage the computer hardware and provide a platform for running application software.
+Examples include operating systems (like Windows, Linux, macOS), device drivers, and utilities that facilitate various system-level functions.
+System software is essential for the computer to function and manage hardware resources efficiently.
+
+2.Application Software:
+-----------------------
+Application software is designed to perform specific tasks for end-users. It is what most people think of as "software" and includes programs for word processing, web browsing, gaming, etc.
+Examples include Microsoft Word, Google Chrome, Photoshop, and video games.
+Application software relies on system software to provide a suitable environment for execution.
+
+
+d. How to Convert Decimal to Binary in Simple Words:
+----------------------------------------------------
+To convert a decimal number to binary, you repeatedly divide the decimal number by 2 and note the remainder each time. The binary equivalent is the sequence of remainders read in reverse order. Here's a simple step-by-step explanation:
+
+Divide the Decimal Number by 2:
+
+Example: Let's say you have the decimal number 10.
+         10÷2=5
+   10÷2=5 with a remainder of 0.
+
+Write Down the Remainder:
+
+In this case, the remainder is 0, so you write down "0."
+Repeat the Process:
+
+Now, divide the result (5) by 2.
+   5÷2=2
+  5÷2=2 with a remainder of 1.
+
+Write Down the New Remainder:
+
+Write down the new remainder, which is 1.
+
+Continue Until Quotient is 0:
+
+Repeat the process until the quotient is 0, writing down the remainders each time.
+
+Read the Binary Equivalent:
+
+The binary equivalent is the sequence of remainders read in reverse order.
+For our example, it would be 1010.
+
+So, the binary equivalent of the decimal number 10 is 1010.
+
+
+
+
+
+
+
